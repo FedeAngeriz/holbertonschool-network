@@ -1,0 +1,4 @@
+#!/bin/bash
+# Port listening on localhost
+
+nc -lv 127.0.0.2 98
