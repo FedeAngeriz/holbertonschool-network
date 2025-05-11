@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script is used to check the status of TCP and UDP ports on a server.
 
-ss -lp
+netstat -lp
