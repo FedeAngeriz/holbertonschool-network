@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Port listening on localhost
 
 nc -lv 127.0.0.2 98
