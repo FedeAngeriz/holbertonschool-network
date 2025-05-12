@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Show attached IPs
 
-ipconfig | grep "inet " | awk '{print $2}'
+ipconfig | grep 'inet ' | awk '{ print $2 }'
